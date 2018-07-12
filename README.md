@@ -4,7 +4,7 @@ This project is for data science purpose, which provides a repo for data
 To add/update this repo, you may follow below steps
 
 1. init repo if you are new for it
-git init
+    + git init
 
 2. add updated file
 git add .
