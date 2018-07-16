@@ -36,6 +36,7 @@ sample_nodes = pd.read_csv(git_repo % "sample_nodes.csv")
 sample_edges = pd.read_csv(git_repo % "sample_edges.csv")
 baseball = pd.read_csv(git_repo % "baseball.csv")
 us_states = pd.read_csv(git_repo % "us_states.csv")
+lesmis = pd.read_csv(git_repo % "LesMis-Connections.csv")
 
 pandas = pd.read_csv(git_repo % "pandas.csv")
 pollution = pd.read_csv(git_repo % "pollution.csv")
