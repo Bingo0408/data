@@ -1,0 +1,3 @@
+col1,col2,col3,col4
+col1_1,"{""continent"": ""Asia"", ""subContinent"": ""Western Asia"", ""country"": ""Turkey""}",col3_1,"{""company"": ""IBM"", ""heigth"": ""174cm""}"
+col1_2,"{""continent"": ""America"", ""subContinent"": ""North America"", ""country"": ""USA""}",col3_2,"{""company"": ""HP"", ""heigth"": ""175cm""}"
